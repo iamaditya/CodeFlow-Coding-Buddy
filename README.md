@@ -20,6 +20,6 @@ A Android application to find your coding partner using skill matching
 5. Connect Android device through USB and enable usb debugging.
 6. Click on Start Icon and app will Start 
 
-### Name uid
+###     Name    uid
 1. 20BCS3512 Aditya Sharma
 2. 20BCS3527 Yuvraj Singh
