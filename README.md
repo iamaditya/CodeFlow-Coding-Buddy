@@ -12,3 +12,10 @@ A Android application to find your coding partner using skill matching
 3. Android Studio 2022.2.1 or +
 
 
+#### Steps to Run the application
+1. Clone the Repository
+2. Start Android Studio
+3. Unzip the Project
+4. Import Project in Android Studio
+5. Connect Android device through USB and enable usb debugging.
+6. Click on Start Icon and app will Start 
