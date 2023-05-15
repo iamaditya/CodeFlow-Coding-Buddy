@@ -1,4 +1,4 @@
-# CodeFlow-Coding-Buddy
+# CodeFlow-Coding-Buddy 
 Android Application to find coding partners (skill-based matching)
 
 
@@ -19,3 +19,5 @@ A Android application to find your coding partner using skill matching
 4. Import Project in Android Studio
 5. Connect Android device through USB and enable usb debugging.
 6. Click on Start Icon and app will Start 
+
+# 20BCS3512 AdityaSharma 20BCS3527 YuvrajSingh
