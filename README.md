@@ -15,7 +15,7 @@ A Android application to find your coding partner using skill matching
 #### Steps to Run the application
 1. Clone the Repository
 2. Start Android Studio
-3. Unzip the Project
+3. Unzip the Project // if required
 4. Import Project in Android Studio
 5. Connect Android device through USB and enable usb debugging.
 6. Click on Start Icon and app will Start 
