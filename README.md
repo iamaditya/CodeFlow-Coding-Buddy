@@ -20,4 +20,4 @@ A Android application to find your coding partner using skill matching
 5. Connect Android device through USB and enable usb debugging.
 6. Click on Start Icon and app will Start 
 
-## 20BCS3512 AdityaSharma 20BCS3527 YuvrajSingh
+### 20BCS3512 AdityaSharma 20BCS3527 YuvrajSingh
