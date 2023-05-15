@@ -21,5 +21,5 @@ A Android application to find your coding partner using skill matching
 6. Click on Start Icon and app will Start 
 
 ### UID - NAME
-20BCS3512 - Aditya Sharma
+20BCS3512 - Aditya Sharma <br>
 20BCS3527 - Yuvraj Singh
