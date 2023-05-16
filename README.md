@@ -6,8 +6,8 @@ CodeFlow-Coding-Buddy is a comprehensive Android application designed to help de
 ## Developers
 
 This project was developed by two motivated students:
-- Aditya Sharma (20BCS3512)
-- Yuvraj Singh (20BCS3527)
+- Aditya Sharma (**20BCS3512**)
+- Yuvraj Singh (**20BCS3527**)
 
 ## Screenshots
 
