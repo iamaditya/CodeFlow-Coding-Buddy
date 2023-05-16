@@ -18,27 +18,33 @@ Check out these screenshots to see CodeFlow-Coding-Buddy in action!
 <div align="center">
   <img src="images/1.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
 </div>
-Login / Register Page - Users can quickly and easily create a new account or log in to their existing account from this screen.
+
+2. **Login / Register Page** - Users can quickly and easily create a new account or log in to their existing account from this screen.
 <div align="center">
   <img src="images/3.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
 </div>
-Register Page - The app's user registration process is straightforward and easy to follow, allowing users to create a profile and start looking for coding partners in no time.
+
+3. **Register Page** - The app's user registration process is straightforward and easy to follow, allowing users to create a profile and start looking for coding partners in no time.
 <div align="center">
   <img src="images/4.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
 </div>
-Login Page Showing Error Message - If a user enters an incorrect username or password, the app provides an error message to help them quickly identify and correct the issue.
+
+4. **Login Page Showing Error Message** - If a user enters an incorrect username or password, the app provides an error message to help them quickly identify and correct the issue.
 <div align="center">
   <img src="images/2.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
 </div>
-User Page - Once users have created a profile and logged in, they can access their personal user page. This page displays their skills and other important information, making it easy for potential coding partners to find them.
+
+5. **User Page** - Once users have created a profile and logged in, they can access their personal user page. This page displays their skills and other important information, making it easy for potential coding partners to find them.
 <div align="center">
   <img src="images/5.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
 </div>
-Result Page - When users search for coding partners using the app's skill-based matching system, they're presented with a list of potential matches. This page provides an overview of each match's skills and allows users to view their profiles in more detail.
+
+6. **Result Page** - When users search for coding partners using the app's skill-based matching system, they're presented with a list of potential matches. This page provides an overview of each match's skills and allows users to view their profiles in more detail.
 <div align="center">
   <img src="images/6.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
 </div>
-User Details Page - When users view a potential coding partner's profile, they can see detailed information about their skills, experience, and preferences. This helps users make informed decisions about who to collaborate with.
+
+7. **User Details Page** - When users view a potential coding partner's profile, they can see detailed information about their skills, experience, and preferences. This helps users make informed decisions about who to collaborate with.
 <div align="center">
   <img src="images/7.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
 </div>
