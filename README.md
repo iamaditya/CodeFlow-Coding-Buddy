@@ -19,6 +19,7 @@ To run the CodeFlow-Coding-Buddy app, follow these steps:
 4. Import the project in Android Studio
 5. Connect your Android device to your computer using a USB cable and enable USB debugging.
 6. Click on the start icon to launch the app.
+![CodeFlow-Coding-Buddy App Screenshot](images/1.jpg "CodeFlow-Coding-Buddy App Screenshot")
 
 ## UID - NAME
 Here are the UID and names of the developers who worked on this project:
