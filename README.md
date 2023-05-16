@@ -21,8 +21,8 @@ To run the CodeFlow-Coding-Buddy app, follow these steps:
 6. Click on the start icon to launch the app.
 ![CodeFlow-Coding-Buddy App Screenshot](images/1.jpg "CodeFlow-Coding-Buddy App Screenshot")
 ![CodeFlow-Coding-Buddy App Screenshot](images/2.jpg "CodeFlow-Coding-Buddy App Screenshot")
-![CodeFlow-Coding-Buddy App Screenshot](images/3.jpg "CodeFlow-Coding-Buddy App Screenshot")
 ![CodeFlow-Coding-Buddy App Screenshot](images/4.jpg "CodeFlow-Coding-Buddy App Screenshot")
+![CodeFlow-Coding-Buddy App Screenshot](images/3.jpg "CodeFlow-Coding-Buddy App Screenshot")
 ![CodeFlow-Coding-Buddy App Screenshot](images/5.jpg "CodeFlow-Coding-Buddy App Screenshot")
 ![CodeFlow-Coding-Buddy App Screenshot](images/6.jpg "CodeFlow-Coding-Buddy App Screenshot")
 ![CodeFlow-Coding-Buddy App Screenshot](images/7.jpg "CodeFlow-Coding-Buddy App Screenshot")
