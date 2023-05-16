@@ -71,7 +71,7 @@ CodeFlow-Coding-Buddy is packed with useful features to help developers connect 
 - Skill-based matching to connect developers with compatible coding partners
 - User registration and login functionality
 - User profile pages with customizable details and preferences
-- Secure Authentication System (*Password Hash*)
+- Secure Authentication System (**Password Hash**)
 <div align="center">
   <img src="images/UPDATED_DB.jpg" alt="CodeFlow-Coding-Buddy App Database Screenshot - Hash Authentication" width="900"/>
 </div>
