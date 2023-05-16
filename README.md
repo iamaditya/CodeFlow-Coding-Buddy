@@ -2,6 +2,11 @@
 
 Welcome to CodeFlow-Coding-Buddy, an Android application that helps you find a coding partner using skill matching.
 
+## UID - NAME
+Here are the UID and names of the developers who worked on this project:
+- 20BCS3512 - Aditya Sharma
+- 20BCS3527 - Yuvraj Singh
+
 ## Overview
 CodeFlow-Coding-Buddy is an Android application that allows you to find a coding partner with matching skills. This app provides a platform where developers can find suitable coding partners and collaborate on projects.
 
@@ -27,7 +32,3 @@ To run the CodeFlow-Coding-Buddy app, follow these steps:
 ![CodeFlow-Coding-Buddy App Screenshot](images/6.jpg "CodeFlow-Coding-Buddy App Screenshot")
 ![CodeFlow-Coding-Buddy App Screenshot](images/7.jpg "CodeFlow-Coding-Buddy App Screenshot")
 
-## UID - NAME
-Here are the UID and names of the developers who worked on this project:
-- 20BCS3512 - Aditya Sharma
-- 20BCS3527 - Yuvraj Singh
