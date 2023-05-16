@@ -15,33 +15,33 @@ To make the screenshots section more professional, you could consider adding som
 Check out these screenshots to see CodeFlow-Coding-Buddy in action!
 
 1. **First Page** - This is the welcome screen that users see when they launch the app. The app's simple and intuitive interface makes it easy for users to get started.
-
-![CodeFlow-Coding-Buddy App Screenshot](images/1.jpg "CodeFlow-Coding-Buddy App Screenshot")
-
-2. **Login / Register Page** - Users can quickly and easily create a new account or log in to their existing account from this screen.
-
-![CodeFlow-Coding-Buddy App Screenshot](images/3.jpg "CodeFlow-Coding-Buddy App Screenshot")
-
-3. **Register Page** - The app's user registration process is straightforward and easy to follow, allowing users to create a profile and start looking for coding partners in no time.
-
-![CodeFlow-Coding-Buddy App Screenshot](images/4.jpg "CodeFlow-Coding-Buddy App Screenshot")
-
-4. **Login Page Showing Error Message** - If a user enters an incorrect username or password, the app provides an error message to help them quickly identify and correct the issue.
-
-![CodeFlow-Coding-Buddy App Screenshot](images/2.jpg "CodeFlow-Coding-Buddy App Screenshot")
-
-5. **User Page** - Once users have created a profile and logged in, they can access their personal user page. This page displays their skills and other important information, making it easy for potential coding partners to find them.
-
-![CodeFlow-Coding-Buddy App Screenshot](images/5.jpg "CodeFlow-Coding-Buddy App Screenshot")
-
-6. **Result Page** - When users search for coding partners using the app's skill-based matching system, they're presented with a list of potential matches. This page provides an overview of each match's skills and allows users to view their profiles in more detail.
-
-![CodeFlow-Coding-Buddy App Screenshot](images/6.jpg "CodeFlow-Coding-Buddy App Screenshot")
-
-7. **User Details Page** - When users view a potential coding partner's profile, they can see detailed information about their skills, experience, and preferences. This helps users make informed decisions about who to collaborate with.
-
-![CodeFlow-Coding-Buddy App Screenshot](images/7.jpg "CodeFlow-Coding-Buddy App Screenshot")
-
+<div align="center">
+  <img src="images/1.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
+</div>
+Login / Register Page - Users can quickly and easily create a new account or log in to their existing account from this screen.
+<div align="center">
+  <img src="images/3.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
+</div>
+Register Page - The app's user registration process is straightforward and easy to follow, allowing users to create a profile and start looking for coding partners in no time.
+<div align="center">
+  <img src="images/4.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
+</div>
+Login Page Showing Error Message - If a user enters an incorrect username or password, the app provides an error message to help them quickly identify and correct the issue.
+<div align="center">
+  <img src="images/2.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
+</div>
+User Page - Once users have created a profile and logged in, they can access their personal user page. This page displays their skills and other important information, making it easy for potential coding partners to find them.
+<div align="center">
+  <img src="images/5.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
+</div>
+Result Page - When users search for coding partners using the app's skill-based matching system, they're presented with a list of potential matches. This page provides an overview of each match's skills and allows users to view their profiles in more detail.
+<div align="center">
+  <img src="images/6.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
+</div>
+User Details Page - When users view a potential coding partner's profile, they can see detailed information about their skills, experience, and preferences. This helps users make informed decisions about who to collaborate with.
+<div align="center">
+  <img src="images/7.jpg" alt="CodeFlow-Coding-Buddy App Screenshot" width="300"/>
+</div>
 
 ## Requirements
 
