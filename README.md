@@ -80,7 +80,7 @@ CodeFlow-Coding-Buddy is packed with useful features to help developers connect 
 
 Thank you for your interest in CodeFlow-Coding-Buddy! We believe that this app has the potential to revolutionize the way that developers find and collaborate with coding partners, and we're excited to share it with the world. If you have any questions or feedback, please don't hesitate to get in touch. We'd love to hear from you!
 
-##LICENSE
+## LICENSE
 MIT License
 
 Copyright (c) 2023 Aditya_Sharma
